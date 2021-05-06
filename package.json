@@ -12,7 +12,7 @@
     "html-to-image": "^0.1.1",
     "image-downloader": "^3.5.0",
     "jimp": "^0.8.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "konva": "^3.3.3",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
